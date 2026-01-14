@@ -35,8 +35,6 @@ Power BI Desktop
 
 Power Query for data cleaning and transformation
 
-DAX for calculated measures and KPIs
-
 Data Visualization best practices
 
 ## Dashboard Highlights
